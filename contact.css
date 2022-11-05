@@ -1,0 +1,86 @@
+#logo {
+    height: 80px;
+    width: 350px;
+    position: absolute;
+    left: 30px;
+    top: 20px;
+}
+
+#anchor {
+    position: absolute;
+    right: 5%;
+    top: 2.5%;
+    display: flex;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+a {
+    color: black;
+    padding-left: 35px;
+}
+
+header {
+    margin: 0%;
+    border-bottom: 5px solid gray;
+    padding-bottom: 80px;
+}
+
+footer { 
+    background-color: gray;
+    padding-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h5 {
+    padding-left: 10px;
+    text-shadow: 1px 1px darkgoldenrod;
+    font-size: 30px;
+}
+
+.tag {
+    width: 80px;
+    height: 100px;
+    padding-left: 300px;
+}
+
+.face {
+    position: absolute;
+    left: 930px;
+}
+
+.insta {
+    position: absolute;
+    left: 810px;
+}
+
+h4 {
+    text-align: center;
+    text-shadow: 1px 1px darkgoldenrod;
+    font-size: 30px;
+}
+
+#box {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#information {
+    background-color: black;
+    height: 400px;
+}
+
+h2 {
+    color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px rgb(170, 197, 15),
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
